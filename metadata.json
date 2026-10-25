@@ -1,0 +1,10 @@
+{
+  "name": "Remix CareCompass - AI Care-Navigation \u0026 Caregiver Matching",
+  "description": "Short-conversation triage, safety-first emergency detection, and intelligent caregiver matching for home care and teleconsultation in English, Hindi, and Hinglish.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
